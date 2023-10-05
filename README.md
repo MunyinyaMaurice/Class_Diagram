@@ -1,2 +1,4 @@
-# Class_Diagram
-In a university there are different classrooms, offices and departments. A department has a name and it contains many offices. A person working at the university has a unique ID and can be a professor or an employee......
+LINK TO MY CLASS DIAGRAMS
+
+
+https://drive.google.com/file/d/1b6dNIU0dqJObKybAPnQwjw5JBcusO4rO/view?usp=sharing
